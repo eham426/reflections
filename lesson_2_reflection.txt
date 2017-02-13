@@ -1,3 +1,8 @@
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to make different versions or try out new features.
+
 What happens when you initialize a repository? Why do you need to do it?
 
 It creates the repository. It needs to be done so commits can be stored in the .git directory.
