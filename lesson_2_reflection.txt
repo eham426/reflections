@@ -1,11 +1,12 @@
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When you want to make different versions or try out new features.
+	When you want to make different versions or try out new features. Collaborating with others.
+	By creating a branch, you can explore a new idea without impacting the main functionality.
 
 What happens when you initialize a repository? Why do you need to do it?
 
-It creates the repository. It needs to be done so commits can be stored in the .git directory.
+	It creates the repository. It needs to be done so commits can be stored in the .git directory.
 
 How is the staging area different from the working directory and the 
 repository? What value do you think it offers?
