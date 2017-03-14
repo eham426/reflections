@@ -6,3 +6,12 @@ stay up-to-date with your remote repository?
     The same reason you don't want commits to occur automatically, you want to make sure
     you are at a logical junction before pulling in changes that may interfere with what
     you are currently working on.
+
+Describe the differences between forks, clones, and branches. When would you use 
+one instead of another?
+    Forks are for cloning a repository from someone else onto your github account.
+    You would use this when using the original as a starting point to develop
+    your own project along with other people.
+    Cloning directly would be for when you want to use someone else's repository, but
+    don't want your work to be on github.
+    Branching is how you make changes on a project that is already local.
