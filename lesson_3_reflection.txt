@@ -1,3 +1,10 @@
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+    Without Github, some possibilities for collaboration would be to use email, or file
+    sharing sites like Google Drive. It would be easier in they are easy to learn how to use
+    without knowing how to use the command line. But for a coding project, Github seems
+    much more efficient in how it segments changes into logical ideas and helps merge
+    code from different sources.
+
 What is the benefit of having a copy of the last known state of the remote stored locally?
     It would be useful if you are about to go somewhere that has no internet and you want
     to have the most updated code to work with.
