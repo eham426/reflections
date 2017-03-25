@@ -1,3 +1,8 @@
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    It would be useful if you are about to go somewhere that has no internet and you want
+    to have the most updated code to work with.
+
+
 When would you want to use a remote repository rather than keeping all your work local?
      When sharing work with others.
 
